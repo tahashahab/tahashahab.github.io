@@ -101,7 +101,7 @@ a.boxclose{
 }
 placeholder{
 	color:#222;
-}
+/* }
 .boxclose span{
 	width:58px;
 	height:73px;
@@ -109,7 +109,7 @@ placeholder{
 	background: url(../images/into.png) no-repeat -0px -46px;
 }
 .boxclose span:hover{
-	background: url(../images/into.png) no-repeat -0px 14px;
+	background: url(../images/into.png) no-repeat -0px 14px; */
 }
 ul.button {
 	padding: 2em;
@@ -213,15 +213,15 @@ ul.button li a:hover{
 	height:108px;
 	margin:0 auto;
 }
-.service-left:hover div.creative{
+/* .service-left:hover div.creative{
 	background: url(../images/icons.png) no-repeat 0px -115px;
 }
 .service-middle:hover div.skills{
 	background: url(../images/icons.png) no-repeat -109px -115px;
 }
 .service-right:hover div.help{
-	background: url(../images/icons.png) no-repeat -219px -115px;
-}
+	background: url(../images/icons.png) no-repeat -219px -115px; */
+/* } */
 /*-- stories --*/
 .stories{
 	background:#FBFBFB;
