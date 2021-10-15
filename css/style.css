@@ -101,7 +101,7 @@ a.boxclose{
 }
 placeholder{
 	color:#222;
-/* }
+}
 .boxclose span{
 	width:58px;
 	height:73px;
@@ -109,7 +109,7 @@ placeholder{
 	background: url(../images/into.png) no-repeat -0px -46px;
 }
 .boxclose span:hover{
-	background: url(../images/into.png) no-repeat -0px 14px; */
+	background: url(../images/into.png) no-repeat -0px 14px;
 }
 ul.button {
 	padding: 2em;
@@ -257,13 +257,13 @@ ul.button li a:hover{
     float: right;
     padding: 1em 1em 1em 0;
 }
-.cross{
+/* .cross{
 	background: url(../images/icons.png) no-repeat 0px -238px;
 	width: 19px;
 	height: 19px;
 	margin: 0 0 0 34em;
 	cursor: pointer;
-}
+} */
 .stories-grid-right h3{
 	color: #333333;
 	font-family: 'Montserrat', sans-serif;
